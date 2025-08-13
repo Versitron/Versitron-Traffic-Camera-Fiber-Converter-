@@ -27,19 +27,20 @@ This **fiber media converter** is ideal for:
 
 ---
 
-## Technical Specifications
+## VERSITRON IEEE 802.3 Media Converter – Technical Specifications
 
-| Specification | Description |
-|---------------|-------------|
-| Model | VERSITRON Traffic Camera Fiber Converter |
-| Fiber Type | Multimode to Singlemode |
-| Connectors | ST to SC fiber converter |
-| Wavelength | 1300nm |
-| Distance Support | Up to 20km |
-| Speed | 10/100/1000Base-TX to 100/1000Base-FX |
-| Duplex Mode | Full-duplex / Half-duplex |
-| Power | External 5VDC |
-| Operating Temp | -10°C to 60°C |
+| Specification        | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| Model                | IEEE 802.3 Media Converter                                                   |
+| Standards            | IEEE 802.3, 802.3u, 802.3ab, 802.3z                                         |
+| Copper Port          | 10/100/1000Base-TX Shielded RJ-45 jack                                      |
+| Cable Type           | Cat5e or higher UTP cable up to 100m                                         |
+| Fiber Port           | 100/1000Base-X SFP compliant                                                 |
+| Fiber Cable Types    | Multimode 50/125 or 62.5/125, Single-mode 9/125 Fiber                        |
+| PoE Standards        | IEEE 802.3af (15.4W max), IEEE 802.3at (30W max)                             |
+| Operating Temp       | 0°C ~ 55°C | -40°C ~ +80°C                                                   |
+| Storage Temp         | -20°C ~ 75°C | -40°C ~ +80°C                                                 |
+| Humidity             | 5% ~ 95% non-condensing | -40°C ~ +80°C                                     |
 
 ---
 
